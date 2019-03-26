@@ -9,7 +9,7 @@
 #include <X11/XKBlib.h>
 
 /*
- * maximum number of arguemnts we will try and call when
+ * maximum number of arguments we will try and call when
  * launching the usder defined program
  */
 #define ARG_LIMIT 20
