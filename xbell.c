@@ -10,7 +10,7 @@
 
 /*
  * maximum number of arguments we will try and call when
- * launching the usder defined program
+ * launching the user defined program
  */
 #define ARG_LIMIT 20
 
