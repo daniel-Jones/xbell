@@ -77,7 +77,7 @@ forkexecute()
 			t = strtok(NULL, " ");
 			z++;
 		}
-		args[z+1] = (char *)0;
+		args[z] = (char *)0;
 		execvp(args[0], args);
 		_exit(1);
 	}
